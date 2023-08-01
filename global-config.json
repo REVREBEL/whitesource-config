@@ -1,9 +1,9 @@
 
 
 "ignoredRepos": {
-  "exactNames": ["myorg/myrepo", "myorg/testrepo"]
+  "exactNames": ["REVREBEL/tooljet ", "REVREBEL/tooljet "]
 }
 
 "includedOwners": {
-  "exactNames": ["MyUserName1", "MyUserName2"]
+  "exactNames": ["RR-Gary-Stringham"]
 }
