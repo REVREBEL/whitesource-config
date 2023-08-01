@@ -1,1 +1,9 @@
 
+
+"ignoredRepos": {
+  "exactNames": ["myorg/myrepo", "myorg/testrepo"]
+}
+
+"includedOwners": {
+  "exactNames": ["MyUserName1", "MyUserName2"]
+}
