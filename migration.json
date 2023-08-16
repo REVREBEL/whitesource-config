@@ -4,6 +4,6 @@
 		"openPR": true
 	},
 	"excludeRepos": {
-		["revrebel.io ","tooljet"]
+		["revrebel.io ","tooljet","n8n"]
 	}
 }
